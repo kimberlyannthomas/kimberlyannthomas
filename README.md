@@ -19,7 +19,7 @@
 
 
 
-<h3 align="left">Side Notes:</h3>
+<h3 align="left">What I'm focused on:</h3>
 
   🔭 I’m currently working on Frontend Mentor coding challenges
 
