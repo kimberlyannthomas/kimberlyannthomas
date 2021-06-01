@@ -21,7 +21,7 @@
 
 <h3 align="left">Side Notes:</h3>
 
-  🔭 I’m currently working on Frontend Mentor coding projects
+  🔭 I’m currently working on Frontend Mentor coding challenges
 
  🌱 I’m currently learning Responsive Images, Flexbox, and Grid
 
